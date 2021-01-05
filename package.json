@@ -12,7 +12,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "kramed": "^0.5.6",
     "vue": "^2.6.11",
     "vue-mathjax": "0.0.11",
